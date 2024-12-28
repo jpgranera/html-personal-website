@@ -1,0 +1,35 @@
+ .poppins-light {
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 20px;
+  }
+  
+  .poppins-regular {
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .poppins-medium {
+    font-family: "Poppins", serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .poppins-bold {
+    font-family: "Poppins", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+ 
+  header {
+    position: sticky;
+    top: 0;
+    z-index: 1000; /* Ensure it stays on top */
+  }
+  
+  .arwin {
+    height: 236px; /* Set the desired height */
+    object-fit: cover;
+  }
